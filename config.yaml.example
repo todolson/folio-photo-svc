@@ -1,0 +1,5 @@
+photo_api:
+  base_url: https://PLACEHOLDER.uchicago.edu
+  path: /IDM-ws/resources/photo
+  username: PLACEHOLDER
+  password: PLACEHOLDER
